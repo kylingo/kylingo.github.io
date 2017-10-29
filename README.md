@@ -1,5 +1,5 @@
 ## 博客列表
-- [每周分享](https://letvsz.github.io/Weekly/)
+- [每周分享](https://kylingo.github.io/Weekly/)
 
 - [Android面试](https://kylingo.github.io/Interview/)
 
