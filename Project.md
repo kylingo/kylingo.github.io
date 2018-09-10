@@ -7,3 +7,5 @@
 ## Android应用
 - [CsdnBlog](http://kylingo.github.io/CsdnBlog/)  
   Csdn客户端，包括博主，博客，分类，热门，搜索等功能。
+
+## Android动态权限
