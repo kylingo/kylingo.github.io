@@ -1,8 +1,8 @@
 ## 博客列表
-- [每周分享](https://kylingo.github.io/Weekly/)
+- [MeUI](https://github.com/kylingo/MeUI)
 
-- [Android面试](https://kylingo.github.io/Interview/)
+- [Weekly](https://github.com/kylingo/MeUI/tree/master/docs/weekly)
 
-- [设计模式](https://kylingo.github.io/DesignPattern/)
+- [Android面试](https://github.com/kylingo/MeUI/tree/master/docs/interview)
 
-- [我的项目](./Project.md)
+- [设计模式](https://github.com/kylingo/MeUI/tree/master/docs/pattern)
